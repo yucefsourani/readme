@@ -5,19 +5,19 @@
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
-فقرة أو فقرتين حول المنتج الخاص بك وماذا يفعل.
+.فقرة أو فقرتين حول المنتج الخاص بك وماذا يفعل
 
 ![](header.png)
 
 ## التثبيت
 
-OS X & لينكس:
+:OS X و لينكس
 
 ```sh
 npm install my-crazy-module --save
 ```
 
-الويندوز:
+: الويندوز
 
 ```sh
 edit autoexec.bat
