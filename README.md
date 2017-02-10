@@ -1,61 +1,57 @@
-# Product Name
-> Short blurb about what your product does.
+# إسم المنتج
+> وصف قصير حول المنتج ودوره
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
-One to two paragraph statement about your product and what it does.
+فقرة أو فقرتين حول المنتج الخاص بك وماذا يفعل.
 
 ![](header.png)
 
-## Installation
+## التثبيت
 
-OS X & Linux:
+OS X & لينكس:
 
 ```sh
 npm install my-crazy-module --save
 ```
 
-Windows:
+الويندوز:
 
 ```sh
 edit autoexec.bat
 ```
 
-## Usage example
+## مثال عن الإستخدام
 
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
+أمثلة مفيدو ومحفزة عن كيفية إستخدام المنتج الخاص بك ودعمها ببعض الكتل البرمجية واللقطات المصورة
 
-## Development setup
+## تثبيت بيئة التطوير
 
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
+وصف جميع الخطوات اللازمة لتثبيت بيئة التطوير وكيفية تشغيل إختبار ألي تحت مختلف المنصات 
 
 ```sh
 make install
 npm test
 ```
 
-## Release History
+## تاريخ الإصدار
 
 * 0.2.1
-    * CHANGE: Update docs (module code remains unchanged)
+    * تغيير: تحديث الوثائق  (لايوجد تغييرات بأكواد الوحدات )
 * 0.2.0
-    * CHANGE: Remove `setDefaultXYZ()`
-    * ADD: Add `init()`
+    * تغيير: حذف `setDefaultXYZ()`
+    * إضافة: إضافة `init()`
 * 0.1.1
-    * FIX: Crash when calling `baz()` (Thanks @GenerousContributorName!)
-* 0.1.0
-    * The first proper release
-    * CHANGE: Rename `foo()` to `bar()`
-* 0.0.1
-    * Work in progress
+    * تصحيح: إنهيار عند مناداة  `baz()` (شكرا ل  @مثال عن شخص ما !)
 
-## Meta
 
-Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
+##تعريف
 
-Distributed under the XYZ license. See ``LICENSE`` for more information.
+إسمك – [@حسابك على تويتر](https://twitter.com/maarouf_kader) – يمكنك أيضا إضافة عنوانك الإلكتروني
+
+وزعت بموجب رخصة :ابت. See ``LICENSE`` لمزيد من المعلومات
 
 [https://github.com/yourname/github-link](https://github.com/dbader/)
 
