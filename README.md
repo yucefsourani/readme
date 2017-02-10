@@ -36,24 +36,13 @@ make install
 npm test
 ```
 
-## تاريخ الإصدار
-
-* 0.2.1
-    * تغيير: تحديث الوثائق  (لايوجد تغييرات بأكواد الوحدات )
-* 0.2.0
-    * تغيير: حذف `setDefaultXYZ()`
-    * إضافة: إضافة `init()`
-* 0.1.1
-    * تصحيح: إنهيار عند مناداة  `baz()` (شكرا ل  @مثال عن شخص ما !)
-
-
 ##تعريف
 
 إسمك – [@حسابك على تويتر](https://twitter.com/maarouf_kader) – يمكنك أيضا إضافة عنوانك الإلكتروني
 
-وزعت بموجب رخصة :ابت. See ``LICENSE`` لمزيد من المعلومات
+وزعت بموجب رخصة :ابت. أنظر ``LICENSE`` لمزيد من المعلومات
 
-[https://github.com/yourname/github-link](https://github.com/dbader/)
+[https://github.com/yourname/github-link](https://github.com/kader14/)
 
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/datadog-metrics
