@@ -40,7 +40,9 @@ npm test
 
 إسمك – [@حسابك على تويتر](https://twitter.com/maarouf_kader) – يمكنك أيضا إضافة عنوانك الإلكتروني
 
-وزعت بموجب رخصة :ابت. أنظر ``LICENSE`` لمزيد من المعلومات
+وزعت بموجب رخصة :ابت
+ أنظر ``LICENSE`` 
+لمزيد من المعلومات
 
 [https://github.com/yourname/github-link](https://github.com/kader14/)
 
