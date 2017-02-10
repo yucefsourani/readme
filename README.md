@@ -11,7 +11,7 @@
 
 ## التثبيت
 
-:OS X و لينكس
+:OS X  لينكس و
 
 ```sh
 npm install my-crazy-module --save
